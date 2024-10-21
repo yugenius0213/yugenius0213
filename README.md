@@ -1,5 +1,6 @@
-## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=0974DB&height=100&section=header&text=&animation=twinkling)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=0974DB&background=FFFFFF00&center=true&vCenter=true&width=435&lines=YuJin's+github)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0974DB&height=100&section=header&text=&animation=twinkling&rotate=-30)
 <!--
 **causyj/causyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
