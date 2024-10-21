@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&section=header&text=YuJin's%20github&height=230&fontSize=40&&fontColor=EFEFEFFF&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&section=header&text=YuJin's%20github&height=230&fontSize=40&&fontColor=EFEFEFFF&animation=fadeIn&)
 
 <!--
 **causyj/causyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
