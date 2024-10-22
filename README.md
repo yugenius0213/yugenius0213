@@ -17,7 +17,8 @@
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg">
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg">
-
+ <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"> <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src="">
  
 🧐
 📚
