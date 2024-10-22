@@ -7,10 +7,7 @@
 🏫 **I'm majoring in..** 
 + Software Engineering at Chung-Ang Univ.
 
-🧐 **I'm currently learning..**
-+ Next.js
-+ Kubernetes
-+ Docker
+🧐
 📚
 <!--
 **causyj/causyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
