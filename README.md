@@ -9,7 +9,7 @@
 
 ---
 #### ⚙️ Text Stack
-<div style="display:flex; flex-direction:column; align-items:flex-center; >
+<div style="display:flex; flex-direction:column; align-items:flex-center; align-justify:'flex-center' >
 <p><strong>⚙️ Text Stack</strong></p> 
 <div>
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
