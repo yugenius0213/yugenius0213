@@ -22,7 +22,7 @@
 
     </div>
  <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src="">
- 
+ </div>
 🧐
 📚
 <!--
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-</div>
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
