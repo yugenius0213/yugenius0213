@@ -14,7 +14,7 @@
 
 
 <div>
-    <img alt="html" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" height="90">
+    <img alt="html" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" height="90%">
     <img alt="css" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" height="90">
     <img alt="ts" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" height="90">
    <img alt="js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" height="90">
