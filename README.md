@@ -14,10 +14,11 @@
 
 
 <div>
-    <img alt="ts" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" width="80">
-   <img alt="ts" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" width="80">
-   <img alt="js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" width="80">
-   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
+    <img alt="html" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" width="90">
+    <img alt="css" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" width="90">
+    <img alt="ts" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" width="90">
+   <img alt="js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" width="90">
+
  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
   <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src="">
  
