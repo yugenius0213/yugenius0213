@@ -14,8 +14,9 @@
 
 
 <div>
-   <img alt="ts" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
-   <img alt="js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+    <img alt="ts" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" width="70">
+   <img alt="ts" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" width="50">
+   <img alt="js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" width="50%">
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
   <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src="">
