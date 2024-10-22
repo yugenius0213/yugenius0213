@@ -14,7 +14,7 @@
 
 
 <div>
-<img alt="html" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" height="20px" >
+
     <img alt="html" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" height="20px"  >
     <img alt="html" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" height="20px">
     <img alt="css" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" height="20px">
