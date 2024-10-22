@@ -18,7 +18,6 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg">
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg">
 
-https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg
  
 🧐
 📚
