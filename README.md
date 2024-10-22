@@ -8,13 +8,15 @@
 + Software Engineering at Chung-Ang Univ.
 
 ---
-<div align="center"> </div>
-### ⚙️ Text Stack
+<div align="center">
+<p><b>⚙️ Tech Stack</b>
+</p>
 
 
 <div>
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg"></div>
+
 
  
 🧐
