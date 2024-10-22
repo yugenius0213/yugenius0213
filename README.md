@@ -9,12 +9,15 @@
 
 ---
 <div style="display:flex; flex-direction:column; align-items:flex-center; >
-#### ⚙️ Text Stack
+<p><strong>⚙️ Text Stack</strong></p> 
 <div>
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg"/>
+   
 </div>
   
+
 </div>
+ 
 🧐
 📚
 <!--
