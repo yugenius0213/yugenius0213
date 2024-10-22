@@ -8,16 +8,14 @@
 + Software Engineering at Chung-Ang Univ.
 
 ---
+<div align="center"> </div>
 #### ⚙️ Text Stack
-<div style="display:flex; flex-direction:column; align-items:flex-center; align-justify:'flex-center' >
+
 <p><strong>⚙️ Text Stack</strong></p> 
 <div>
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
-</div>
-  
 
-</div>
  
 🧐
 📚
@@ -31,6 +29,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
+</div>
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
