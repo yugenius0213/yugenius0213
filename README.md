@@ -9,9 +9,7 @@
 
 ---
 <div align="center">
-<p><b>⚙️ Tech Stack</b>
-</p>
-
+<p><b>⚙️ Tech Stack</b></p>
 
 <div>
     <img alt="html" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" height="20px">
@@ -20,12 +18,11 @@
     <img alt="ts" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" height="20px">
     <img alt="js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"height="20px">
 
-    </div>
- <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src=""> <img src="">
- </div>
-🧐
+</div>
+</div>
+<!--🧐
 📚
-<!--
+
 **causyj/causyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
