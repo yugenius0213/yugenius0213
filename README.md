@@ -8,8 +8,8 @@
 + Software Engineering at Chung-Ang Univ.
 
 ---
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-⚙️ Text Stack
+<div style="display:flex; flex-direction:column; align-items:flex-center; >
+#### ⚙️ Text Stack
 <div>
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg"/>
 </div>
