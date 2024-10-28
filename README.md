@@ -1,13 +1,13 @@
 <div style="margin: 0; padding: 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&height=100&weight=100%&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=004C97&height=100&weight=100%&section=header" />
 </div>
 <div style="margin: 0; padding: 0;" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=50&duration=1000&pause=4000&color=004C97&center=true&vCenter=true&width=435&lines=Yujin's+Github" alt="Typing SVG" /></a>
 </div>
 <div style="margin: 0; padding: 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=004C97&height=100&section=footer" />
 </div>
-
+2679DCFF
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcausyj&count_bg=%237FAFEF&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)  
 
