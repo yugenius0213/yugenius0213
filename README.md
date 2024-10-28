@@ -1,3 +1,4 @@
+<div align="center">
 <div style="margin: 0; padding: 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&height=100&section=header" />
 </div>
@@ -35,7 +36,7 @@
   - Jest
 
 ---
-<div align="center">
+
     
 #### ⚙️ Tech Stack
 <div>
