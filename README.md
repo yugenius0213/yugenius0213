@@ -41,8 +41,7 @@ d![header](https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&sect
 
 <p><b>📊 Stats</b></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?
-username=causyj)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=causyj)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
