@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&section=header&text=Yujin's%20Github&animation=twinkling&height=190&fontSize=35&&fontColor=F7FAFFFF&&&fontAlignY=35&)
 
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&section=header&text=Yujin's%20Github&animation=twinkling&height=190&fontSize=35&&fontColor=F7FAFFFF&&&fontAlignY=35&)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=190&lines=Yujin's+GitHub)](https://git.io/typing-svg)
+![footer](https://capsule-render.vercel.app/api?section=footer&color=2679DCFF)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <div align="center" >Yujin's Github</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
