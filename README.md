@@ -44,7 +44,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=causyj&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=causyj&layout=compact)]([https://github.com/causyj/causyj)
-
-<a href="https://github.com/causyj"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=causyj&layout=compact&theme=nord&hide_border=true" /></a> 
 </div>
