@@ -37,7 +37,7 @@
      
     
 <p><b>📊 Stats</b></p>
-  [![Yujin's Github Stats](https://github-readme-stats.vercel.app/api?username=causyj)](https://github.com/causyj/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=causyj)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </div>
 <!--🧐
