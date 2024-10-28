@@ -36,11 +36,8 @@
      <img alt="notion" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" height="20px">
      
     
-    <!--     
-     <img alt="" src="" height="20px"><img alt="" src="" height="20px"><img alt="" src="" height="20px"><img alt="" src="" height="20px"><img alt="" src="" height="20px"><img alt="" src="" height="20px"><img alt="" src="" height="20px"><img alt="" src="" height="20px"><img alt="" src="" height="20px"><img alt="" src="" height="20px">
-    
-    -->
-
+<p><b>📊 Stats</b></p>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yujin's Github Stats)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </div>
 <!--🧐
