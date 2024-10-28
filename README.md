@@ -14,9 +14,10 @@
 <p><b>⚙️ Tech Stack</b></p>
 
 <div>
-    <img alt="html" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" height="20px">
-    <img alt="css" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" height="20px">
-    <img alt="tailwindcss" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" height="20px">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=CSS3&logoColor=white"/> </t>
+
     
 </br>
     <img alt="ts" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" height="20px">
