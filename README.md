@@ -11,7 +11,6 @@
 
 ---
 <div align="center">
-<p style="font-size: 40px"><b>⚙️ Tech Stack</b></p>
     
 #### ⚙️ Tech Stack
 <div>
@@ -40,7 +39,8 @@
 </br>
 </div>
 </br>
-<p><b>📊 Stats</b></p>
+
+ #### 📊 Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=causyj&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
