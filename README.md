@@ -8,7 +8,7 @@
 +  Software Engineering at Chung-Ang Univ.
 
 🧐 **I'm interested in..**
-+  Web Development
++ Web Development
   - Building responsive and user-friendly interfaces
   - Progressive Web Apps (PWAs)
   - JavaScript frameworks (React, Next.js)
