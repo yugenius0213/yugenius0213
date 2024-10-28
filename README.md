@@ -4,7 +4,7 @@
 
 
 
-🏫 **I'm majoring in..** 
+<h4>🏫 I'm majoring in..<h4>
 + Software Engineering at Chung-Ang Univ.
 
 🧐 **I'm interested in..**
