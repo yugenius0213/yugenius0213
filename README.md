@@ -2,6 +2,7 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&height=100&section=header" />
+<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&pause=1000&color=2679DC&width=435&lines=Yujin's+Github" alt="Typing SVG" /></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&height=100&section=footer" />
 
