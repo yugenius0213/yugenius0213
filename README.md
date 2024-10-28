@@ -21,7 +21,6 @@
     <img alt="js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"height="20px"> 
      <img alt="react" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" height="20px">
      <img alt="next" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" height="20px">
-     <img alt="tailwindcss" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" height="20px">
      <img alt="jest" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg" height="20px">
      
 </br>
@@ -34,7 +33,7 @@
      <img alt="git" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" height="20px">
      <img alt="github" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" height="20px">
     <img alt="figma" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" height="20px">
-     <img alt="notion" src=" https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" height="20px">
+     <img alt="notion" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" height="20px">
      
     
     <!--     
