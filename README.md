@@ -43,6 +43,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=causyj&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=causyj&size_weight=1&count_weight=1&layout=compact&hide=c,assembly,perl,roff&exclude_repo=PuangFilm-FE)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=causyj&size_weight=0.1&count_weight=1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
