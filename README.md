@@ -12,10 +12,37 @@
 <p><b>⚙️ Tech Stack</b></p>
 
 <div>
-<!--     <img alt="html" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" height="20px">
+
+    <img alt="html" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" height="20px">
     <img alt="css" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" height="20px">
+    <img alt="tailwindcss" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" height="20px">
+    
+</br>
+    
     <img alt="ts" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" height="20px">
-    <img alt="js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"height="20px"> -->
+    <img alt="js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"height="20px"> 
+     <img alt="react" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" height="20px">
+     <img alt="next" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" height="20px">
+     <img alt="tailwindcss" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" height="20px">
+     <img alt="jest" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg" height="20px">
+     
+</br>
+     <img alt="flutter" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg" height="20px">
+     <img alt="firebase" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg" height="20px">
+</br>
+      
+    <img alt="docker" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" height="20px">
+</br>    
+     <img alt="git" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" height="20px">
+     <img alt="github" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" height="20px">
+    <img alt="figma" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" height="20px">
+     <img alt="notion" src=" https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" height="20px">
+     
+    
+    <!--     
+     <img alt="" src="" height="20px"><img alt="" src="" height="20px"><img alt="" src="" height="20px"><img alt="" src="" height="20px"><img alt="" src="" height="20px"><img alt="" src="" height="20px"><img alt="" src="" height="20px"><img alt="" src="" height="20px"><img alt="" src="" height="20px"><img alt="" src="" height="20px">
+    
+    -->
 
 </div>
 </div>
