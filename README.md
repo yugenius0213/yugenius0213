@@ -28,7 +28,7 @@
      
 </br>
 
-<img src="https://img.shields.io/badge/Flutter-025679B?style=flat-square&logo=Flutter&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/> 
      
 </br>
