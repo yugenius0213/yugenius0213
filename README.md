@@ -5,16 +5,16 @@
 
 
 🏫 **I'm majoring in..**
-*  Software Engineering at Chung-Ang Univ.
++  Software Engineering at Chung-Ang Univ.
 
 🧐 **I'm interested in..**
-*  Web Development
-+ Building responsive and user-friendly interfaces
-  - Progressive Web Apps (PWAs)
-  - JavaScript frameworks (React, Next.js)
-  - Performance optimization techniques
-  - Server-side rendering (SSR) with Next.js
-  - State management solutions (Redux, Recoil, Jotai)
++  Web Development
+- Building responsive and user-friendly interfaces
+- Progressive Web Apps (PWAs)
+- JavaScript frameworks (React, Next.js)
+- Performance optimization techniques
+- Server-side rendering (SSR) with Next.js
+- State management solutions (Redux, Recoil, Jotai)
 
 🌱 **I’m currently learning ...**
 + FE
