@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&section=header&text=Yujin's%20Github&animation=twinkling&height=190&fontSize=35&&fontColor=F7FAFFFF&&&fontAlignY=35&)
+d![header](https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&section=header&text=Yujin's%20Github&animation=twinkling&height=190&fontSize=35&&fontColor=F7FAFFFF&&&fontAlignY=35&)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcausyj&count_bg=%237FAFEF&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)  
 
@@ -41,7 +41,7 @@
 
 <p><b>📊 Stats</b></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=causyj)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=causyj)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
