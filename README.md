@@ -4,12 +4,12 @@
 
 
 
-<h4>🏫 I'm majoring in..<h4>
-+ Software Engineering at Chung-Ang Univ.
+🏫 **I'm majoring in..**
+*  Software Engineering at Chung-Ang Univ.
 
 🧐 **I'm interested in..**
-+ Web Development
-  - Building responsive and user-friendly interfaces
+*  Web Development
++ Building responsive and user-friendly interfaces
   - Progressive Web Apps (PWAs)
   - JavaScript frameworks (React, Next.js)
   - Performance optimization techniques
