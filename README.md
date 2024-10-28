@@ -16,9 +16,9 @@
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=CSS3&logoColor=white"/> </t>
+    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=CSS3&logoColor=white"/> 
 
-
+</br>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=CSS3&logoColor=white"/> 
     <img alt="js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"height="20px"> 
      <img alt="react" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" height="20px">
