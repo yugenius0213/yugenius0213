@@ -1,34 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&section=header&text=Yujin's%20Github&animation=twinkling&height=190&fontSize=35&&fontColor=F7FAFFFF&&&fontAlignY=35&)
-🏫 **I'm majoring in..**
-+  Software Engineering at Chung-Ang Univ.
-
-🧐 **I'm interested in..**
-+ Web Development
-  - Building responsive and user-friendly interfaces
-  - Progressive Web Apps (PWAs)
-  - JavaScript frameworks (React, Next.js)
-  - Performance optimization techniques
-  - Server-side rendering (SSR) with Next.js
-  - State management solutions (Redux, Recoil, Jotai)
-
-🌱 **I’m currently learning ...**
-+ FE
-  - JavaScript
-  - Next.js
-+ CI/CD
-  - GitHub Actions, Docker, Kubernetes
-+ Testing
-  - Jest
-
----
-
-
-
 <div style="margin: 0; padding: 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&height=100&section=header" />
 </div>
 <div style="margin: 0; padding: 0;" align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=50&duration=1000&pause=4000&color=004C97&center=true&vCenter=true&width=435&lines=Yujin's+Github" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=50&duration=1000&pause=4000&color=004C97&vCenter=true&width=435&lines=Yujin's+Github" alt="Typing SVG" /></a>
 </div>
 <div style="margin: 0; padding: 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&height=100&section=footer" />
