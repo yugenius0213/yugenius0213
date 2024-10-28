@@ -8,9 +8,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=004C97&height=100&section=footer" />
 </div>
 
+</br>
 <div align="center"> 
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23004C97&title_bg=%238E8D8D&icon=waze.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%5689BA&title_bg=%238E8D8D&icon=waze.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>  
+</br>
 
 🏫 **I'm majoring in..**
 +  Software Engineering at Chung-Ang Univ.
