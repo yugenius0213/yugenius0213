@@ -19,38 +19,25 @@
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> 
 
 </br>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=CSS3&logoColor=white"/> 
-    <img alt="js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"height="20px"> 
-     <img alt="react" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" height="20px">
-     <img alt="next" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" height="20px">
-     <img alt="jest" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg" height="20px">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/> 
      
 </br>
-     <img alt="flutter" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg" height="20px">
-     <img alt="firebase" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg" height="20px">
+
+<img src="https://img.shields.io/badge/Flutter-025679B?style=flat-square&logo=Flutter&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/> 
      
 </br>
-      <img alt="docker" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" height="20px">
-</br>    
-     <img alt="git" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" height="20px">
-     <img alt="github" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" height="20px">
-    <img alt="figma" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" height="20px">
-     <img alt="notion" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" height="20px">
 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Kubernetets-326CE5?style=flat-square&logo=Kubernetets&logoColor=white"/> 
 
 </br>
-
-</br>
-
-     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> </t>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
-</br>
 
 <p><b>📊 Stats</b></p>
 
