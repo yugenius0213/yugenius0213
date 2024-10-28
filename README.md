@@ -1,4 +1,3 @@
-
 <div style="margin: 0; padding: 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&height=100&weight=100%&section=header" />
 </div>
@@ -9,11 +8,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&height=100&section=footer" />
 </div>
 
-<div align="center">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcausyj&count_bg=%237FAFEF&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)  
 
-
-<div align="start">
 🏫 **I'm majoring in..**
 +  Software Engineering at Chung-Ang Univ.
 
@@ -34,10 +31,11 @@
   - GitHub Actions, Docker, Kubernetes
 + Testing
   - Jest
-</div>
+
 ---
 
-    <div align="center">
+<div align="center">
+  
 #### ⚙️ Tech Stack
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
