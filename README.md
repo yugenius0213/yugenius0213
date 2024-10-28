@@ -43,8 +43,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=causyj&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=causyj)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=causyj)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=causyj)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=causyj&langs_count=10&layout=compact&theme=dark)](https://github.com/cauysj/cauysj)﻿
 </div>
