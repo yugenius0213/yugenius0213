@@ -2,6 +2,8 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&height=100&section=header" />
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&section=header&text=Yujin's%20Github&animation=twinkling&height=100&fontSize=35&&fontColor=F7FAFFFF&&&fontAlignY=35&)
 <div>dks</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2679DCFF&height=100&section=footer" />
 
