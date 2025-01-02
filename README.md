@@ -71,7 +71,7 @@
 
  #### 📊 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=causyj&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yugenius0213&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
