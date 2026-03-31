@@ -83,6 +83,5 @@
  <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
-[![Yujin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yugenius0213&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![Metrics](https://metrics.lecoq.io/yugenius0213?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&base.metadata=1)
 </div>
