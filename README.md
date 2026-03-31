@@ -8,10 +8,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=004C97&height=100&section=footer" />
 </div>
 
-</br>
+<!-- </br>
 <div align="center"> 
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcausyj&count_bg=%234B7EAE&title_bg=%238E8D8D&icon=waze.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>  
+</br> -->
+</br>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcausyj&count_bg=%234B7EAE&title_bg=%238E8D8D&icon=waze.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
+  </a>
+</p>
 </br>
 
 🏫 **I'm majoring in..**
@@ -24,12 +31,14 @@
   - JavaScript frameworks (React, Next.js)
   - Performance optimization techniques
   - Server-side rendering (SSR) with Next.js
-  - State management solutions (Redux, Recoil, Jotai)
+  - State management solutions (Redux, Jotai, Zustand)
 
 🌱 **I’m currently learning ...**
 + FE
-  - JavaScript
+  - React
   - Next.js
+  - TypeScript
+  - JavaScript
 + CI/CD
   - GitHub Actions, Docker, Kubernetes
 + Testing
@@ -43,7 +52,7 @@
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 </br>
 
@@ -59,6 +68,7 @@
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/> 
      
 </br>
+<img src="https://img.shields.io/badge/Capacitor-118CF5?style=flat-square&logo=capacitor&logoColor=white"/>
 
 <!-- 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
@@ -71,7 +81,6 @@
 
  #### 📊 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yugenius0213&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugenius0213&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
