@@ -13,13 +13,7 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcausyj&count_bg=%234B7EAE&title_bg=%238E8D8D&icon=waze.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>  
 </br> -->
-</br>
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcausyj&count_bg=%234B7EAE&title_bg=%238E8D8D&icon=waze.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
-  </a>
-</p>
-</br>
+
 
 🏫 **I'm majoring in..**
 +  Software Engineering at Chung-Ang Univ.
@@ -79,9 +73,9 @@
 </div>
 </br>
 
- #### 📊 Stats
+
  <!--
+  #### 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
-![Metrics](https://metrics.lecoq.io/yugenius0213?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&base.metadata=1)
-</div>
+
